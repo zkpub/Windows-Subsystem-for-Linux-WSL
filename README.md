@@ -6,7 +6,7 @@
 __________
 
 - [Windows Subsystem for Linux (known as WSL)](#windows-subsystem-for-linux-known-as-wsl)
-  - [What is the WSL and how it works ?](#what-is-the-wsl-and-how-it-works-)
+  - [What is the WSL and how does it work ?](#what-is-the-wsl-and-how-does-it-work-)
     - [WSL is not a virtual machine !](#wsl-is-not-a-virtual-machine-)
     - [WSL 1 vs WSL 2](#wsl-1-vs-wsl-2)
     - [The limits of WSL](#the-limits-of-wsl)
@@ -22,7 +22,7 @@ __________
     - [Some useful commands](#some-useful-commands)
   - [Appendix - Sources and References](#appendix---sources-and-references)
 
-## What is the WSL and how it works ?
+## What is the WSL and how does it work ?
 
 The WSL for **W**indows **S**ubsystem for **L**inux is a compatibility layer developed by Microsoft for running Linux binaries natively (ELF format) in a console environment on Windows 10 and Windows 11. This ingenious technology provides a Linux-compatible kernel interface and can interact directly with the Windows operating system with performances very close to a native Linux distribution. Moreover, it allows a user to choose a Linux distribution to install directly from the Microsoft Store (more info in below).
 
